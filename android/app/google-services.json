@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "915336993569",
+    "project_id": "medica-9fb57",
+    "storage_bucket": "medica-9fb57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915336993569:android:ad1cd403ee43cbf546bc60",
+        "android_client_info": {
+          "package_name": "com.example.medica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915336993569-ov7lp407epvk0nhfcue0bpl9ens5fnne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medica",
+            "certificate_hash": "494778c8b7c617e681720259cec90c21c40558b8"
+          }
+        },
+        {
+          "client_id": "915336993569-vgeukod8rp8es08tm65s37p15j689ck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JhbQvz7fgf10H3MfeIeKddepP0kzc3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915336993569-vgeukod8rp8es08tm65s37p15j689ck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915336993569:android:517f7b9fd66fda4b46bc60",
+        "android_client_info": {
+          "package_name": "com.example.new_medica_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915336993569-vgeukod8rp8es08tm65s37p15j689ck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JhbQvz7fgf10H3MfeIeKddepP0kzc3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915336993569-vgeukod8rp8es08tm65s37p15j689ck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915336993569:android:c12f2e223c91c07946bc60",
+        "android_client_info": {
+          "package_name": "com.example.new_medicaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915336993569-vgeukod8rp8es08tm65s37p15j689ck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JhbQvz7fgf10H3MfeIeKddepP0kzc3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915336993569-vgeukod8rp8es08tm65s37p15j689ck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
